@@ -739,6 +739,18 @@ p {
   line-height: 1.7;
 }
 
+.section-dark .timeline-item h3 {
+  color: #FFFFFF;
+}
+
+.section-dark .timeline-item p {
+  color: var(--color-text-light);
+}
+
+.section-dark .timeline-dot {
+  background: var(--color-bg-dark);
+}
+
 .timeline-badge {
   display: inline-block;
   padding: 0.2rem 0.8rem;
